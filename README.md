@@ -9,7 +9,7 @@
 
 ## 📌 Redes
 - GitHub: [FERREIZY](https://github.com/FERREIZY)
-- LinkedIn: [FERREIZY](https://linkedin.com/in/FERREIZY)
+- LinkedIn: [FERREIZY](https://linkedin.com/in/FERREIZY.)
 - Twitter: [@FERREIZY](https://twitter.com/FERREIZY)
 
 ---
