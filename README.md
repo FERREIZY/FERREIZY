@@ -1,16 +1,16 @@
 # Olá 👋 Eu sou FERREIZY
 
-> Uma frase curta sobre você. Ex: Desenvolvedor Full-Stack | Apaixonado por UX e automação.
+> Desenvolvedor Full-Stack | Apaixonado por UX e automação.
 
-🔭 Atualmente: trabalhando em **ProjetoX**  
+🔭 Atualmente: trabalhando em **XX**  
 🌱 Estudando: **TypeScript, DevOps**  
-📫 Contato: [email@exemplo.com](joseelizandro03@gmail.com)  
+📫 Contato: [FERREIZY](joseelizandro03@gmail.com)  
 ⚡ Curiosidade: gosto de café e música eletrônica ☕🎧
 
 ## 📌 Redes
-- GitHub: [SEU_USUARIO](https://github.com/FERREIZY)
-- LinkedIn: [Seu Nome](https://linkedin.com/in/FERREIZY)
-- Twitter: [@seuhandle](https://twitter.com/FERREIZY)
+- GitHub: [FERREIZY](https://github.com/FERREIZY)
+- LinkedIn: [FERREIZY](https://linkedin.com/in/FERREIZY)
+- Twitter: [@FERREIZY](https://twitter.com/FERREIZY)
 
 ---
 
