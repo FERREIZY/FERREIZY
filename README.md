@@ -16,12 +16,12 @@
 
 ### 🔧 Tecnologias
 `JavaScript` `TypeScript` `React` `Node.js` `Python` `Docker`
-
----
-Obrigado por visitar! ✨
 <picture>
 <source media=" (prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferreizy/ferreizy/output/github-contribution-grid-snake-dark.svg">
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ferreizy/ferreizy/output/github-contribution-grid-snake.svg">
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ferreizy/ferreizy/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+---
+Obrigado por visitar! ✨
+
