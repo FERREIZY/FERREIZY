@@ -16,7 +16,7 @@
 ---
 
 ## 🎯 Objetivo
-Me torna desenvolvedor backend júnior, criando APIs, sistemas e aplicações robustas.
+Me tornar desenvolvedor backend júnior, criando APIs, sistemas e aplicações robustas.
 
 ---
 
