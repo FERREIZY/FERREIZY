@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o FERREIZY
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (2º semestre)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (1º semestre)  
 💻 Focado em desenvolvimento Backend  
 🐍 Python | ☕ Java  
 
